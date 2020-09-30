@@ -3,7 +3,7 @@ import { mdiBookOpenPageVariant, mdiFoodApple, mdiHospitalBox, mdiMapMarker, mdi
 export const text = {
   home: {
     head: "For The Ones In Need",
-    subhead: "A Bengal based NGO, with a vision to make a difference in society for the civic benefit."
+    subhead: "A NGO located in Raiganj, W.B., with a vision to make a difference in society for the civic benefit."
   },
   about: {
     title: "About Our Foundation",
